@@ -1,0 +1,14 @@
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\Vastardis.TFSEventListenerService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\Vastardis.TFSEventListenerService\bin\TFSToJira.dll
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\Vastardis.TFSEventListenerService\bin\TFSToJira.pdb
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\Vastardis.TFSEventListenerService\bin\log4net.dll
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\Vastardis.TFSEventListenerService\bin\log4net.xml
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\Vastardis.TFSEventListenerService\obj\Debug\TFSToJira.dll
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\Vastardis.TFSEventListenerService\obj\Debug\TFSToJira.pdb
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\TFSToJira\bin\TFSToJira.dll
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\TFSToJira\bin\TFSToJira.pdb
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\TFSToJira\bin\log4net.dll
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\TFSToJira\bin\log4net.xml
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\TFSToJira\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\TFSToJira\obj\Debug\TFSToJira.dll
+C:\Users\emahpour\Documents\Visual Studio 2010\Projects\TFSToJira\TFSToJira\obj\Debug\TFSToJira.pdb
